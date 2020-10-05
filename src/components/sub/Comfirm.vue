@@ -11,7 +11,7 @@ export default {
   props:["text"],
   data () {
     return {
-      msg: true
+      msg: '你好'
     }
   },
   methods:{
