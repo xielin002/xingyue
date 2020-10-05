@@ -10,7 +10,7 @@ export default {
   name: 'confirm-button',
   props:["text"],
   data () {
-    return { 
+    return {
       msg: true
     }
   },
