@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    'Welcome to My XingYue App'
     <img src="./assets/logo.png">
     <router-view/>
   </div>
